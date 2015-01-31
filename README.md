@@ -10,4 +10,4 @@ The photographs are of random size and orientation (landscape, portrait & square
 •	Cannot dynamically mask the image either from top or center due to uncertain size
 
 #Solution:
-CSS3 property “object-fit” comes to the rescue. It helps in maintaining the aspect ratio while filling the entire content box. The object size is resolved as a cover constraint against the container/images used width and height.
+CSS3 property “object-fit: cover” comes to the rescue. It helps in maintaining the aspect ratio while filling the entire content box. The object size is resolved as a cover constraint against the container/images used width and height.
