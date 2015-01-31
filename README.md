@@ -1,4 +1,4 @@
-#Business case for using CSS3 "object-fit" property
+#Business case for using CSS3 "object-fit:cover" property
 
 #Background:
 A landing page needs to be built for a conference, wherein Speakers’ photographs (thumbnails) need to be displayed in a fixed size – say, 100px by 100px.
