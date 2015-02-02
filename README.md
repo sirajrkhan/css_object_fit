@@ -1,7 +1,7 @@
 #Business case for using CSS3 "object-fit:cover" property
 
 #Background:
-A landing page needs to be built for a conference, wherein Speakers’ photographs (thumbnails) need to be displayed in a fixed size – say, 100px by 100px.
+A landing page needs to be built for a conference, wherein Speakers’ photographs (thumbnails) need to be displayed in a specific dimension – say, 100px by 100px.
 
 #Problem Statement:
 The photographs are of random size and orientation (landscape, portrait & square) and coming from an external source on which the application does not have any control. Therefore, following solutions will not work:
