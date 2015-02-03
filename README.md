@@ -17,4 +17,5 @@ CSS3 property “object-fit: cover” comes to the rescue. It helps in maintaini
 
 #Scope:
 Did I tell you that it is working only on Chrome :)
-Check the compatibility at: [http://caniuse.com/#search=object-fit] Can I Use
+[br]
+Check the compatibility at: [Can I Use] http://caniuse.com/#search=object-fit
