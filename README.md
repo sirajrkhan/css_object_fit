@@ -14,3 +14,6 @@ The photographs are of random size and orientation (landscape, portrait & square
 
 #Solution:
 CSS3 property “object-fit: cover” comes to the rescue. It helps in maintaining the aspect ratio while filling the entire content box. The object size is resolved as a cover constraint against the container/images used width and height.
+
+#Scope:
+Did I tell you that it is working only on Chrome :)
