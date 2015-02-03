@@ -1,5 +1,8 @@
 #Business case for using CSS3 "object-fit:cover" property
 
+#Optimizing the thumbnails for random pictures
+A guide on how to display same-size thumbnails without distorting the image, losing the aspect-ratio or making the picture out-of-focus for random size pictures.
+
 #Background:
 A landing page needs to be built for a conference, wherein Speakers’ photographs (thumbnails) need to be displayed in a specific dimension – say, 100px by 100px.
 
